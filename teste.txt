@@ -1,0 +1,14 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 347B-64BA
+
+ Pasta de C:\www\projetoTeste
+
+01/09/2022  18:25    <DIR>          .
+01/09/2022  18:25    <DIR>          ..
+01/09/2022  18:25    <DIR>          css
+01/09/2022  18:25         1.008.949 Git Hub - Parte 01.pdf
+01/09/2022  18:25               362 index.html
+01/09/2022  18:25                49 README.md
+01/09/2022  18:25                 0 teste.txt
+               4 arquivo(s)      1.009.360 bytes
+               3 pasta(s)   413.994.102.784 bytes dispon¡veis
