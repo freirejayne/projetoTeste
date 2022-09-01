@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+
+h1 {
+    font-size: 20pt;
+    color: darkslategrey;
+    text-align: center;
+}
